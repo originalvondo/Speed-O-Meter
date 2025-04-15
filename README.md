@@ -1,4 +1,4 @@
-# Speed-o-meter: C++ Profiler
+# Speed-O-Meter: A C++ Profiler
 
 Speed-o-meter is a lightweight and easy-to-use profiler for C++ code. It allows developers to profile their C++ applications and analyze their performance using Chrome Tracing.
 
